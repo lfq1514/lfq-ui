@@ -1878,8 +1878,6 @@ vue.config.js配置
       install
     }
     
-    
-    
 
 测试
 
@@ -1897,11 +1895,6 @@ vue.config.js配置
       render: h => h(App)
     }).$mount('#app')
     
-    
-    
-
-
-
 
 
 发布到npm与github
